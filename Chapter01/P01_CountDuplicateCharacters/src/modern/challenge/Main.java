@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
+//comments
 public class Main {
 
     private static final String TEXT = "Be strong, be fearless, be beautiful. "
